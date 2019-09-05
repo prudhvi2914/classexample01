@@ -15,6 +15,12 @@ public class Main {
 				//output a wlcome message
 				
 		System.out.println("Hello" + personName);
+
+		System.out.println("Hello" + personName);
+		System.out.println("enter your input");System.out.println("enter your input");System.out.println("enter your input");
+		System.out.println("enter your input");
+		
+		
 	}
 
 }
